@@ -17,7 +17,7 @@ class Scratch3YourExtension {
             id: 'yourScratchExtension',
 
             // name that will be displayed in the Scratch UI
-            name: 'Demo 4',
+            name: 'Demo 5',
 
             // colours to use for your extension blocks
             color1: '#000099',
